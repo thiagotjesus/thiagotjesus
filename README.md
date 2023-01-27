@@ -1,6 +1,6 @@
 ## Thiago Torres
 
-- ⚡ Desenvolvedor Backend
+- ⚡ Desenvolvedor Back-end
 - 📖 Instrutor de Programação e Robótica
 <br>
 
